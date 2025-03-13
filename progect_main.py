@@ -260,3 +260,5 @@ if __name__ == "__main__":
     root.geometry('665x450')
     root.resizable(False, False)
     root.mainloop()
+
+"https://github.com/kerfarion/itogoviy_proect"
